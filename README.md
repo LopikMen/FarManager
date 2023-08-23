@@ -12,8 +12,11 @@
 
 Также, между активными окнами предусмотрен интерфейса для переноса файлов или папок, их копирования и удаления.
 
-(графический интерфейс приложения) image image
+(графический интерфейс приложения) 
+![262101492-8c7886d9-6129-4409-9cb5-397c97c6fd35](https://github.com/LopikMen/FarManager/assets/105353472/da95cdcf-1f6d-4a3f-addd-14bbf86409d5)
+
 
 UML (Class)
 
-image
+![262101529-1bd52933-f0e3-429c-8405-c98afc4a3a93](https://github.com/LopikMen/FarManager/assets/105353472/6dea9acc-1a6a-4633-b2b1-f0440a077f55)
+
